@@ -1,6 +1,7 @@
 # Exercícios de Programação - Curso Técnico Integrado ao Ensino Médio (1° Ano)
 
 Bem-vindo ao repositório de exercícios de programação do meu primeiro ano de curso técnico. Neste repositório, você encontrará uma coleção de listas de exercícios relacionados ao curso de Programação. Cada lista contém exercícios abrangendo diversos tópicos da programação.
+ - **Plataforma utilizada: https://www.beecrowd.com.br/judge/pt**
 
 ![Logo IFRS](https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-cores-sem-fundo-Horizontal.png)
 
