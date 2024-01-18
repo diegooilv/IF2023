@@ -1,48 +1,49 @@
 # Exercícios de Programação - Curso Técnico Integrado ao Ensino Médio (1° Ano)
 
-Bem-vindo ao repositório de exercícios de programação do meu primeiro ano de curso técnico. Neste repositório, você encontrará uma coleção de listas de exercícios relacionados ao curso de Programação. Cada lista contém exercícios abrangendo diversos tópicos da programação.
+Bem-vindo ao repositório de exercícios de programação do meu primeiro ano de curso técnico. 
  - **Plataforma utilizada: https://www.beecrowd.com.br/judge/pt**
 
 ![Logo IFRS](https://ifrs.edu.br/wp-content/uploads/2022/08/Logo-IFRS-cores-sem-fundo-Horizontal.png)
 
 ## Aviso Importante
 
-Este repositório contém exercícios destinados a ajudar os alunos a aprimorar suas habilidades de programação. Encorajamos todos os alunos a usar esses exercícios como uma ferramenta de aprendizado e prática. No entanto, gostaríamos de enfatizar o seguinte:
+Este repositório é uma valiosa ferramenta para todos nós, estudantes, aprimorarmos nossas habilidades de programação. Quero enfatizar alguns pontos cruciais que considero essenciais durante nosso aprendizado:
 
-- **Não Plagie**: Não copie ou cole as soluções dos exercícios de outras fontes. O plágio não é apenas antiético, mas também prejudica o seu próprio aprendizado.
+- **Evite Plágio**: Por favor, resistam à tentação de copiar soluções de outras fontes. Além de ser antiético, o plágio prejudica nosso próprio crescimento como programadores.
 
-- **Entenda o Código**: Ao resolver os exercícios, certifique-se de entender o código que você escreve. A programação envolve compreender os conceitos e lógica por trás do código.
+- **Entenda o Código**: Ao resolver os exercícios, é fundamental compreender cada linha de código que escrevemos. A verdadeira maestria na programação vem do entendimento profundo dos conceitos e da lógica subjacente ao código.
 
-- **Use como Ferramenta de Estudo**: Utilize esses exercícios como uma ferramenta de estudo e prática para aprimorar suas habilidades.
+- **Use como Ferramenta de Estudo**: Estes exercícios são projetados para serem uma ferramenta valiosa de estudo e prática. A prática constante é a chave para aprimorar nossas habilidades.
 
-- **Contribua de Forma Ética**: Se você deseja contribuir com mais exercícios, faça-o de forma ética e original. Evite copiar exercícios de outras fontes.
+- **Contribua de Forma Ética**: Se sentirem a vontade para contribuir com mais exercícios, façam isso de maneira ética e original. Evitem copiar exercícios de outras fontes e busquem trazer algo novo para o repositório.
 
-**Lembre-se, o objetivo principal desses exercícios é ajudar você a aprender e crescer como programador. A prática e o entendimento são essenciais para o seu desenvolvimento. Boa sorte em seus estudos!**
+**Vamos aproveitar ao máximo esses exercícios para fortalecer nossos conhecimentos em programação!**
+  
 
 # Listas de Exercícios
 
-- **Lista 1 - Programas com Estrutura Sequencial**
-- **Lista 2 - Programas com Estrutura Condicional**
-- **Lista 3 - Programas com Repetição Determinada**
-- **Lista 4 - Programas com Repetição Indeterminada**
-- **Lista 5 - Programas com Variáveis de Coleção**
 - **Lista de Exercícios Extras**
+- **Lista 01 - Programas com Estrutura Sequencial**
+- **Lista 02 - Programas com Estrutura Condicional**
+- **Lista 03 - Programas com Repetição Determinada**
+- **Lista 04 - Programas com Repetição Indeterminada**
+- **Lista 05 - Programas com Variáveis de Coleção**
 
 ## Sobre as Listas
 
-As listas de exercícios contêm desafios relacionados ao curso de programação ministrado no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS). Eles são projetados para ajudar os alunos a praticar conceitos e melhorar suas habilidades de programação.
+Estas listas de exercícios constituem uma parte crucial do curso de programação ministrado no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS). Elas foram cuidadosamente elaboradas com o intuito de auxiliar todos os alunos a colocarem em prática os conceitos aprendidos e aprimorarem suas habilidades de programação.
 
 ## Contribuições
 
-Você é bem-vindo para contribuir com exercícios adicionais ou melhorias nas listas existentes. Se desejar adicionar mais exercícios extras, sinta-se à vontade para fazer isso. Basta fazer um fork deste repositório, fazer as alterações e criar um pull request.
+Você é mais do que bem-vindo para contribuir com exercícios adicionais ou melhorias nas listas existentes. Caso queira adicionar mais desafios, sinta-se à vontade para fazer um fork deste repositório, realizar as alterações e criar um pull request.
 
 ## Observações
 
-- As listas de exercícios foram originalmente elaboradas no início/meio do ano, mas podem ter passado por revisões e melhorias.
-- A data de 08/11 marca a inclusão destas listas no GitHub.
+- As listas foram inicialmente elaboradas no início/meio do ano, passando por revisões e melhorias ao longo do tempo.
+- A data de 08/11/2023 marca a inclusão dessas listas no GitHub.
 
 ## Aviso: Utilização de IA
 
-Para tornar este repositório mais acessível e compreensível, utilizamos a tecnologia de Inteligência Artificial (IA) para auxiliar na criação e aprimoramento deste documento `README.md`. A IA ajudou a fornecer informações e recomendações para facilitar a organização e apresentação dos exercícios.
-
+Para criar este README.md, optei por utilizar a tecnologia de Inteligência Artificial (IA) como uma ferramenta adicional para tornar o conteúdo mais acessível e compreensível.
+#
 **Divirta-se resolvendo os exercícios e aprimorando suas habilidades de programação!**
